@@ -1,5 +1,4 @@
-## Hi there 👋
-Hi, I'm Tyler Fisher
+## Hi, I'm Tyler Fisher 👋
 
 - 📫 You can message me on LinkedIn https://www.linkedin.com/in/tyler--fisher/
 <!--
